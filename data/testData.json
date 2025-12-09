@@ -1,0 +1,149 @@
+[
+    {
+        "query": "I can't afford groceries this week",
+        "issue": "Food Stamps"
+    },
+    {
+        "query": "I need a hot meal for tonight",
+        "issue": "Soup Kitchens"
+    },
+    {
+        "query": "I need some place warm to stay tonight",
+        "issue": "Shelters"
+    },
+    {
+        "query": "I need money for rent this month",
+        "issue": "Rental Assistance"
+    },
+    {
+        "query": "I need some affordable insurance providers",
+        "issue": "Insurance"
+    },
+    {
+        "query": "Are there any free clinics I can go to",
+        "issue": "Free Clinic"
+    },
+    {
+        "query": "I need non-emergent medical help",
+        "issue": "Health Clinics"
+    },
+    {
+        "query": "I need help feeding my baby",
+        "issue": "Pregnant Women and New Moms"
+    },
+    {
+        "query": "I am struggling with substance abuse",
+        "issue": "Substance Abuse"
+    },
+    {
+        "query": "I am having a mental health crisis",
+        "issue": "Behavioral and Mental Health"
+    },
+    {
+        "query": "I am in an abusive relationship",
+        "issue": "Domestic Violence"
+    },
+    {
+        "query": "I need some free legal aid",
+        "issue": "Legal Aid for Civil Cases"
+    },
+    {
+        "query": "My friend lost his job and needs money for food",
+        "issue": "Food Stamps"
+    },
+    {
+        "query": "My coworker's family needs an emergency meal",
+        "issue": "Soup Kitchens"
+    },
+    {
+        "query": "My neighbor lost her home, she needs temporary housing for the night",
+        "issue": "Shelters"
+    },
+    {
+        "query": "My neighbor can't afford their rent this month.",
+        "issue": "Rental Assistance"
+    },
+    {
+        "query": "My mom cancelled her expensive insurance, she needs more affordable options",
+        "issue": "Insurance"
+    },
+    {
+        "query": "My dad needs a new affordable clinic to refer his clients to",
+        "issue": "Free Clinic"
+    },
+    {
+        "query": "My dad needs a new clinic to go to, his old one shut down",
+        "issue": "Health Clinics"
+    },
+    {
+        "query": "My sister is having a baby and she can't afford prenatal care",
+        "issue": "Pregnant Women and New Moms"
+    },
+    {
+        "query": "My sister is an alcoholic",
+        "issue": "Substance Abuse"
+    },
+    {
+        "query": "My child is behaving very unusally in school",
+        "issue": "Behavioral and Mental Health"
+    },
+    {
+        "query": "My neighbor is in an abusive relationship",
+        "issue": "Domestic Violence"
+    },
+    {
+        "query": "My neighbor's son needs free legal services to help with a civil case",
+        "issue": "Legal Aid for Civil Cases"
+    },
+
+
+
+    {
+        "query": "What resources are available to me if I can't afford food this month?",
+        "issue": "Food Stamps"
+    },
+    {
+        "query": "Are there any soup kitchens in my area?",
+        "issue": "Soup Kitchens"
+    },
+    {
+        "query": "Are there any temporary living arrangements available in my area?",
+        "issue": "Shelters"
+    },
+    {
+        "query": "Are there any government programs that can help me afford rent this month?",
+        "issue": "Rental Assistance"
+    },
+    {
+        "query": "What are some affordable insurance providers?",
+        "issue": "Insurance"
+    },
+    {
+        "query": "Are there any affordable clinics in the area?",
+        "issue": "Free Clinic"
+    },
+    {
+        "query": "What are some community health clinics near me?",
+        "issue": "Health Clinics"
+    },
+    {
+        "query": "Are there any resources for low-income, pregnant moms?",
+        "issue": "Pregnant Women and New Moms"
+    },
+    {
+        "query": "Are there any resources to help with detoxing from drug-use?",
+        "issue": "Substance Abuse"
+    },
+    {
+        "query": "What are some behavioral health resources available to me?",
+        "issue": "Behavioral and Mental Health"
+    },
+    {
+        "query": "What are some resources that can help in domestic issues?",
+        "issue": "Domestic Violence"
+    },
+    {
+        "query": "Are there pro bono legal services available to me?",
+        "issue": "Legal Aid for Civil Cases"
+    }
+]
