@@ -1,3 +1,12 @@
+import os
+import json
+import gradio
+
+from preprocessing import convertJSONToText
+from embed import embedAndFaiss
+from retrieve import retrieveClosestIssueAssociated
+from prompting import promptModel
+
 def main():
     os.environ["OPENAI_API_KEY"] = ""
     resources = json.load(open("IssuesAndLinks_Flattened.json"))
