@@ -1,0 +1,132 @@
+[
+    {
+        "issue": "Food Stamps",
+        "description": "SNAP benefits, discounted food, affordable food, help with paying for food, afford groceries",
+        "links": [
+            "https://www.dss.virginia.gov/benefit/snap.cgi",
+            "https://virginiasunbucks.com/apply/",
+            "https://www.dss.virginia.gov/benefit/tanf/"
+        ]
+
+    },
+    {
+        "issue": "Soup Kitchens",
+        "description": "soup kitchens, food for the night, hot meal, hungry, free food, emergency meal, food drive",
+        "links": [
+            "https://www.americassoupkitchen.org/get-help",
+            "https://foodforothers.org/get-help/ineedassistance/",
+            "https://haymarketfoodpantry.org/",
+            "https://foodforothers.org/usda/",
+            "https://foodforothers.org/get-help/emergency-referral-program/",
+            "https://foodforothers.org/get-help/neighborhood-sites/"
+        ]
+    },
+    {
+        "issue": "Shelters",
+        "description": "Homeless shelter, shelter, warm shelter, bed for the night, temporary living",
+        "links": [
+            "https://www.pwcva.gov/department/social-services/homeless-and-winter-shelters/",
+            "https://www.pwcva.gov/department/social-services/hypothermia-shelter-services/",
+            "https://www.fairfaxcounty.gov/homeless/",
+            "https://www.fairfaxcounty.gov/homeless/homelessness-fairfax",
+            "https://www.fairfaxcounty.gov/homeless/emergency-shelters"
+        ]
+    },
+    {
+        "issue": "Rental Assistance",
+        "description": "housing assistance, money for rent, help with rent",
+        "links": [
+            "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.dhcd.virginia.gov/sites/default/files/Docx/rmrp/rmrp-guide.pdf",
+            "https://www.pwcva.gov/department/housing-community-development/emergency-housing-assistance/",
+            "https://www.fairfaxcounty.gov/neighborhood-community-services/coordinated-services-planning",
+            "https://www.fairfaxcounty.gov/housing/rentalhousing/privately-owned",
+            "https://www.pwcva.gov/department/housing-community-development/rental-assistance/",
+            "https://www.pwcva.gov/department/housing-community-development/neighborhood-rehabilitation-program/"
+        ]
+    },
+    {
+        "issue": "Insurance",
+        "description": "affordable insurance, accessible healthcare, insurance for the poor",
+        "links": [
+            "https://www.dmas.virginia.gov/for-applicants/applying-for-medicaid/",
+            "https://www.pwcva.gov/department/area-agency-aging/medicaid",
+            "https://www.fairfaxcounty.gov/familyservices/public-assistance-employment-services/medicaid",
+            "https://www.fairfaxcounty.gov/familyservices/public-assistance-employment-services/financial-and-medical-assistance"
+        ]
+    },
+    {
+        "issue": "Free Clinic",
+        "description": "free health care, free clinics, affordable clinics, little to no cost",
+        "links": [
+            "https://www.fairfaxcounty.gov/familyservices/public-assistance-employment-services/medical-care-for-children",
+            "https://www.vafreeclinics.org/clinics-in-virginia",
+            "https://publichealth.gmu.edu/mapclinics"
+        ]
+    },
+    {
+        "issue": "Health Clinics",
+        "description": "health care, clinics, non-emergent medical help, community health, public health",
+        "links": [
+            "https://www.fairfaxcounty.gov/health/clinics",
+            "https://www.fairfaxcounty.gov/health/clinics/herndon-reston-district-office",
+            "https://www.fairfaxcounty.gov/health/clinics/franconia-springfield-public-health-center",
+            "https://www.fairfaxcounty.gov/health/clinics/springfield-district-office",
+            "https://www.fairfaxcounty.gov/health/clinics/annandale-district-office",
+            "https://www.fairfaxcounty.gov/health/clinics/mount-vernon-district-office",
+            "https://www.fairfaxcounty.gov/community-services-board/facility/merrifield-center",
+            "https://neighborhoodhealthva.org/our-locations/",
+            "https://www.fairfaxcounty.gov/community-services-board/recovery/merrifield-peer-resource-center"
+        ]
+    },
+    {
+        "issue": "Pregnant Women and New Moms",
+        "description": "programs for new moms, help feeding my baby, pregnant women, prenatal care, baby",
+        "links": [
+            "https://www.vdh.virginia.gov/wic/",
+            "https://www.vdh.virginia.gov/prince-william/wic/",
+            "https://www.dmas.virginia.gov/for-applicants/populations-served/for-pregnant-women/" 
+        ]
+    },
+    {
+        "issue": "Substance Abuse",
+        "description": "substance abuse, alcoholic, drug-use, drinking, detox",
+        "links": [
+            "https://www.fairfaxcounty.gov/community-services-board/services/detoxification",
+            "https://www.fairfaxcounty.gov/community-services-board/recovery/peer-outreach-response-team",
+            "https://www.fairfaxcounty.gov/community-services-board/facility/addiction-medicine-clinic",
+            "https://www.fairfaxcounty.gov/community-services-board/services/detox-diversion"
+        ]
+    },
+    {
+        "issue": "Behavioral and Mental Health",
+        "description": "mental health, behavioral health, unusual behavior",
+        "links": [
+            "https://www.fairfaxcounty.gov/healthymindsfairfax/",
+            "https://www.fairfaxcounty.gov/familyservices/childrens-services-act",
+            "https://www.fairfaxcounty.gov/community-services-board/services/emergencies"
+        ]
+    },
+    {
+        "issue": "Domestic Violence",
+        "description": "domestic violence, abusive relationship, domestic dispute",
+        "links": [
+            "https://www.pwcva.gov/department/criminal-justice-services/domestic-violence-resources",
+            "https://www.thehotline.org/",
+            "https://www.oag.state.va.us/images/domviolence/dv_vaorganizations.pdf",
+            "https://www.fairfaxcounty.gov/familyservices/domestic-sexual-violence",
+            "https://www.fairfaxcounty.gov/familyservices/community-corner/essential-resources-for-victims-of-domestic-violence",
+            "https://vsdvalliance.org/agency/fairfax-county-office-for-women-domestic-violence-and-sexual-violence-services/"
+        ]
+    },
+    {
+        "issue": "Legal Aid for Civil Cases",
+        "description": "free legal aid, civil services, pro bono legal services, legal assistance",
+        "links": [
+            "https://www.fairfaxcounty.gov/juveniledomesticrelations/related-resources-links/legal-services",
+            "https://www.valegalaid.org/organization/legal-services-of-northern-virginia",
+            "https://www.fairfaxlawfoundation.org/page/9",
+            "https://vsb.org/Site/Site/legal-help/legal-help.aspx",
+            "https://libguides.law.gmu.edu/public-legal-assistance/free-legal-help"
+        ]
+    }
+]
