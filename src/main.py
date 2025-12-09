@@ -9,7 +9,7 @@ from prompting import promptModel
 
 def main():
     os.environ["OPENAI_API_KEY"] = ""
-    resources = json.load(open("IssuesAndLinks_Flattened.json"))
+    resources = json.load(open("data/IssuesAndLinks_Flattened.json"))
     userInput = "I need somewhere to sleep tonight."
     document = []
     for resource in resources:
