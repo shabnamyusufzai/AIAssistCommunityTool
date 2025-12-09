@@ -1,4 +1,4 @@
-from embeddings import model
+from embed import model
 
 def retrieveClosestIssueAssociated(document, userRequest, faissIndex, k=3):
     closest = []
