@@ -1,5 +1,5 @@
 from openai import OpenAI
-client = OpenAI()
+client = OpenAI(api_key="")
 def promptModel(userRequest, topIssueLinks):
     formattedLinks = "\n\n\n".join(topIssueLinks)
     prompt = """You are a chatbot chatting with a user. The user is presenting you 
