@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+unsloth
+openai
+gradio
+numpy
+smolagents
