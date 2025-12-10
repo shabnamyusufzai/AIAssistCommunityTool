@@ -10,5 +10,6 @@ Steps on how to get the code working in Google Colab:
     cd AIAssistCommunityTool/
 4. Install the dependencies outlined in the requirements.txt:
     !pip install -r requirements.txt
-5. Run main.py to access the chatbot on a local URL:
+5. Add your OpenAI api key to line 2 of prompting.py and line 11 of main.py
+6. Run main.py to access the chatbot on a local URL:
     !python src/main.py
